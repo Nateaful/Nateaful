@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nateaful" alt="nateaful" /></a> </p>
 
-- 🔭 I’m currently working on **Indonesia 🇮🇩**
-
-- 🌱 I’m currently learning **Front-End**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **any kind of projects :D**
 
-- 🤝 I’m looking for help with **anything**
-
 - 💬 Ask me about **anything related to UX design**
-
-- 📫 How to reach me **natzwanaura06@gmail.com**
 
 - ⚡ Fun fact **I got leg cramps whenever I sleep**
 
