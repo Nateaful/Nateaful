@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nat ᓚ₍ ^. .^₎</h1>
+<h1 align="center">Hi 👋 I'm Nat ᓚ₍ ^. .^₎</h1>
 <h3 align="center">A UI/UX Designer who tried to code as well :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nateaful&label=Profile%20views&color=0e75b6&style=flat" alt="nateaful" /> </p>
